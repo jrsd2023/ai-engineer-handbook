@@ -4,7 +4,6 @@ This is a list of resources you can rely on for great interview prep advice!
 
 - The Machine Learning Fundamentals Interview
   - [Chip Huyen's ML Interview Book](https://huyenchip.com/ml-interviews-book/)
-  - [Introduction to ML Interviews Book](https://huyenchip.com/ml-interviews-book/contents/part-i.-questions.html)
 
 - The ML System Design Interview
   - [Machine Learning System Design Interview by Alex Xu](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127)
@@ -22,5 +21,4 @@ This is a list of resources you can rely on for great interview prep advice!
 
 - The Research / Paper Discussion Interview
   - [Papers With Code](https://paperswithcode.com/)
-  - [How to Read a Paper by S. Keshav](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
   - [Yannic Kilcher Paper Explanations](https://www.youtube.com/@YannicKilcher)
