@@ -208,10 +208,9 @@ Here's a mostly comprehensive list of AI engineering creators:
 | Eugene Yan               | [Eugene Yan](https://www.linkedin.com/in/eugeneyan/)                                                    | 50,000+        |
 | Hamel Husain             | [Hamel Husain](https://www.linkedin.com/in/hamelhusain/)                                                 | 50,000+        |
 | Shreya Shankar           | [Shreya Shankar](https://www.linkedin.com/in/shreyashankar/)                                             | 20,000+        |
-| Jason Liu                | [Jason Liu](https://www.linkedin.com/in/jxnl/)                                                          | 30,000+        |
-| Shawn Wang (swyx)        | [Shawn Wang](https://www.linkedin.com/in/shawwang/)                                                     | 50,000+        |
+| Shawn Wang (swyx)        | [Shawn Wang](https://www.linkedin.com/in/shawnswyxwang/)                                                     | 6,000+        |
 | Cameron Wolfe            | [Cameron Wolfe](https://www.linkedin.com/in/camerondwolfe/)                                              | 50,000+        |
-| Zach Wilson              | [Zach Wilson](https://www.linkedin.com/in/eczachly)                                                     | 400,000+       |
+| Zach Wilson              | [Zach Wilson](https://www.linkedin.com/in/eczachly)                                                     | 500,000+       |
 
 #### X/Twitter
 
@@ -257,6 +256,8 @@ Top must follow newsletters for AI engineering:
 - [Latent Space](https://www.latent.space/)
 - [The Sequence](https://thesequence.substack.com/)
 - [AI Engineering by Chip Huyen](https://huyenchip.substack.com/)
+- [DataExpert.io Blog](https://blog.dataexpert.io)
+- [Sylph.ai Blog](https://blog.sylph.ai)
 
 ### Glossaries:
 - [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
